@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "バカサバイバー",
+  "base_artist": "ウルフルズ",
+  "createdAt": "2026-01-04T05:46:37.455384Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バカサバイバー",
+      "artist": "Ulfuls",
+      "has_synced": true,
+      "path": "select/01_バカサバイバー_Ulfuls.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バカサバイバー",
+      "artist": "ウルフルズ",
+      "has_synced": true,
+      "path": "select/02_バカサバイバー_ウルフルズ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "バカサバイバー",
+      "artist": "Ulfuls",
+      "has_synced": true,
+      "path": "select/03_バカサバイバー_Ulfuls.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バカサバイバー",
+      "artist": "ウルフルズ",
+      "has_synced": false,
+      "path": "select/pl_01_バカサバイバー_ウルフルズ.txt"
+    }
+  ]
+}
